@@ -1,0 +1,50 @@
+Clase Programa {
+ Estatico Vacio Principal ( Cadena[] argumentos )
+ {
+ Real nota = 0 ;
+ Cadena c_nota = " no asignada " ;
+
+ Booleano repetir = Verdadero ;
+ Mientras  ( repetir ==  Verdadero )
+ {
+ Probar
+ {
+ Consola.EscribirLinea ( " Introduce nota " );
+ nota = Real.Analizar ( Consola.LeerLinea  ( ) );
+ repetir = Falso ;
+ }
+ Capturar ( FormatoExcepcion )
+ {
+ Consola.Limpiar ( ) ;
+ Consola.EscribirLinea ( " Introducir sólo valores numéricos " ) ;
+ repetir = Verdadero ;
+ }
+ }
+ Si ( nota  > 0 Y nota < 10 )
+ {
+ Si ( nota >=  5 )
+ {
+ Si ( nota >=  6 )
+ {
+ Si ( nota >=  7 )
+ {
+ Si ( nota >= 9 ) c_nota  = " sobresaliente " ;
+ Sino c_nota  =  " notable " ;
+ }
+ Sino c_nota  =  " bien " ;
+ }
+ Sino c_nota = " aprobado " ;
+ }
+ Sino c_nota  = " suspendido " ;
+ }
+ Si (c_nota !=  " no asignada " )
+ {
+ Consola.EscribirLinea ( " La nota es de {0}", c_nota ) ;
+ }
+ Sino 
+ Consola.EscribirLinea ( " Nota no valida " ) ;
+ Consola.EscribirLinea ( ) ;
+ Consola.EscribirLinea  ( " Final del programa " ) ;
+
+ } 
+ }

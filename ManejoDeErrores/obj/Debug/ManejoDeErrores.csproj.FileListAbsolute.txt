@@ -1,0 +1,16 @@
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\ManejoDeErrores\bin\Debug\ManejoDeErrores.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csprojAssemblyReference.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.csproj.CoreCompileInputs.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\ManejoDeErrores\obj\Debug\ManejoDeErrores.pdb

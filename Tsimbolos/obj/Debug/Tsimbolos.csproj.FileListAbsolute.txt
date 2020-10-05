@@ -1,0 +1,23 @@
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\bin\Debug\Tsimbolos.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\bin\Debug\Tsimbolos.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\bin\Debug\ManejoDeErrores.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csprojAssemblyReference.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CoreCompileInputs.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\obj\Debug\Tsimbolos.csproj.CopyComplete
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\obj\Debug\Tsimbolos.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\Tsimbolos\obj\Debug\Tsimbolos.pdb

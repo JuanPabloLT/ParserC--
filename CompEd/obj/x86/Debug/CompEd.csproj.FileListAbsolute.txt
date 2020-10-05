@@ -1,0 +1,57 @@
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\bin\Debug\CompEd.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\bin\Debug\CompEd.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\obj\x86\Debug\CompEd.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.GenerateResource.Cache
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\obj\x86\Debug\CompEd.exe
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\obj\x86\Debug\CompEd.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2010\Projects\CompEd\CompEd\obj\x86\Debug\CompEd.Ide.resources
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.exe
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.pdb
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\CompEd.exe
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\CompEd.pdb
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.Ide.resources
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.Properties.Resources.resources
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.GenerateResource.Cache
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.CmpEd_credits.resources
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.ini.resources
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.ResolveComReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\AnalizadorLexico.dll
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\Archivos.dll
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\AnalizadorLexico.pdb
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\Archivos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\AnalizadorSintactico.dll
+E:\Bibliotecas\programacion\C#\CompEd\CompEd\bin\Debug\AnalizadorSintactico.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.ResolveComReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.exe
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.Ide.resources
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.ini.resources
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.Properties.Resources.resources
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.GenerateResource.Cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\bin\Debug\CompEd.exe
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\bin\Debug\CompEd.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\CompEd\bin\Debug\Tsimbolos.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\bin\Debug\CompEd.exe
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\bin\Debug\CompEd.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\bin\Debug\ManejoDeErrores.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\bin\Debug\Tsimbolos.dll
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\bin\Debug\ManejoDeErrores.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\bin\Debug\Tsimbolos.pdb
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.csprojAssemblyReference.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.ResolveComReference.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.Ide.resources
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.Properties.Resources.resources
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.GenerateResource.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.CoreCompileInputs.cache
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.csproj.CopyComplete
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.exe
+C:\Users\JUAN.LONDOÑO\Downloads\DESCARGAS JUAN\Nueva carpeta\COMPILADORES\LEXER2\CompEd\CompEd\obj\x86\Debug\CompEd.pdb

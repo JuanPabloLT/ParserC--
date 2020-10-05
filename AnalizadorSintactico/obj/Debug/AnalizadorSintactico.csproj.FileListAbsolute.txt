@@ -1,0 +1,26 @@
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.Properties.Resources.resources
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.csproj.GenerateResource.Cache
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorSintactico.dll.config
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorSintactico.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorSintactico.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorLexico.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorLexico.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.dll
+E:\Bibliotecas\programacion\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorSintactico.dll.config
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorSintactico.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\AnalizadorSintactico.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\ManejoDeErrores.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\Tsimbolos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\ManejoDeErrores.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\bin\Debug\Tsimbolos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.Properties.Resources.resources
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.csproj.GenerateResource.Cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\AnalizadorSintactico\obj\Debug\AnalizadorSintactico.pdb

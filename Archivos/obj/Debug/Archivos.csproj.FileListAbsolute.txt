@@ -1,0 +1,10 @@
+E:\Bibliotecas\programacion\C#\CompEd\Archivos\bin\Debug\Archivos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Archivos\bin\Debug\Archivos.pdb
+E:\Bibliotecas\programacion\C#\CompEd\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\C#\CompEd\Archivos\obj\Debug\Archivos.dll
+E:\Bibliotecas\programacion\C#\CompEd\Archivos\obj\Debug\Archivos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Archivos\bin\Debug\Archivos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Archivos\bin\Debug\Archivos.pdb
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Archivos\obj\Debug\Archivos.dll
+E:\Bibliotecas\programacion\Biblioteca de Codigo\C#\CompEd\Archivos\obj\Debug\Archivos.pdb
