@@ -446,13 +446,13 @@ namespace CompEd
                         #region parte semantica
                        if (Regex.IsMatch(sentencias[i], @"Entero\s+[a-zA-Z]{1,10};"))
                             {
-                                //MessageBox.Show("numero entero");
+                                MessageBox.Show("Sentencia correcta Entero: "+ sentencias[i]);
                             }
 
                         else{
 
                            tabla_errorres.addliste(12, i);
-                            //MessageBox.Show("error de escritura");
+                            MessageBox.Show("Error de escritura Entero: " + sentencias[i]);
 
                         }
                         #endregion
@@ -465,14 +465,14 @@ namespace CompEd
                         #region parte semantica
                         if (Regex.IsMatch(sentencias[i], @"Real\s+[a-zA-Z]{1,10};"))
                         {
-                            //MessageBox.Show("numero real");
+                            MessageBox.Show("Sentencia correcta Real: " + sentencias[i]);
                         }
 
                         else
                         {
 
                             tabla_errorres.addliste(12, i);
-                            //MessageBox.Show("error de escritura");
+                            MessageBox.Show("Error de escritura Real: " + sentencias[i]);
 
                         }
                         #endregion
@@ -483,13 +483,13 @@ namespace CompEd
                         #region parte semantica
                         if (Regex.IsMatch(sentencias[i], @"Cadena\s+[a-zA-Z]{1,10};"))
                         {
-                            //MessageBox.Show("cadena");
+                            MessageBox.Show("Sentencia correcta Cadena: " + sentencias[i]);
                         }
                     else
                         {
 
                             tabla_errorres.addliste(12, i);
-                            //MessageBox.Show("error de escritura");
+                            MessageBox.Show("Error de escritura Cadena: " + sentencias[i]);
 
                         }
                         #endregion
@@ -502,14 +502,14 @@ namespace CompEd
                         #region parte semantica
                         if (Regex.IsMatch(sentencias[i], @"Booleano\s+[a-zA-Z]{1,10};"))
                         {
-                            //MessageBox.Show("numero real");
+                            MessageBox.Show("Sentencia correcta Booleano: " + sentencias[i]);
                         }
 
                         else
                         {
 
                             tabla_errorres.addliste(12, i);
-                            //MessageBox.Show("error de escritura");
+                            MessageBox.Show("Error de escritura Booleano: " + sentencias[i]);
 
                         }
                         #endregion
@@ -517,29 +517,29 @@ namespace CompEd
                     }
                     else if (Regex.IsMatch(sentencias[i], @"//*"))
                    {
-                       //MessageBox.Show("Esto es un comentario");
+                       MessageBox.Show("Esto es un comentario correcto: " + sentencias[i]);
                    }
                     else if (Regex.IsMatch(sentencias[i], @"{$"))
                    {
-                        // MessageBox.Show("inicio de ambito");
+                        MessageBox.Show("Inicio de ambito correcto: " + sentencias[i]);
                     }
                     else if (Regex.IsMatch(sentencias[i], @"}$"))
                    {
-                        //MessageBox.Show("fin de ambito");
+                        MessageBox.Show("Fin de ambito correcto: " + sentencias[i]);
                     }
                     else if (Regex.IsMatch(sentencias[i], @"Si*"))//--
                    {
-                        //MessageBox.Show("comienzo de if");
+                        MessageBox.Show("Sentencia Si correcta: " + sentencias[i]);
                     }
                     else if (Regex.IsMatch(sentencias[i], @"Sino*"))//--
                    {
-                        //MessageBox.Show("comienzo de else if");
-                    }                      
+                        MessageBox.Show("Sentencia Sino Si correcta: " + sentencias[i]);
+                    }
                     else if (Regex.IsMatch(sentencias[i], @"Mientras*"))
                    {
-                        //MessageBox.Show("inicio de un while");
-                    }   
-               }
+                        MessageBox.Show("Sentencia Mientras correcta: " + sentencias[i]);
+                    }
+                }
 
                #endregion
                
